@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+
+}
+header {
+    background-color: Turquoise;
+    border-radius: 10px;
+    padding: 4px;
+}
+header a {
+    border-color: white;
+    background-color: white;
+    border-radius: 10px;
+    padding: 4px;
+    text-decoration: none;
+}
+header img {
+    border-color: white;
+    background-color: white;
+    border-radius: 10px;
+
+}
+h1 {
+    color: MidnightBlue;
+}
+footer{
+    background-color: turquoise;
+    padding: 7px;
+    border-radius: 10px;
+}
+footer p {
+    background-color: white;
+    padding: 3px;
+    border-radius: 10px;
+}
+nav {
+    background-color: turquoise;
+    margin-top: 10px;
+    padding: 7px;
+    border-radius: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    background-color: white;
+    padding: 3px;
+    border-radius: 10px;
+}
+main {
+    background-color: Azure;
+    border-radius: 10px;
+}
+main p {
+    background-color: turquoise;
+    border-radius: 10px;
+    text-align: center;
+}
+body a {
+    text-decoration: none;
+    color:Navy;
+}
+main a {
+    background-color: turquoise;
+    border-radius: 10px;
+
+}
